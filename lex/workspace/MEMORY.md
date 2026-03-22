@@ -17,7 +17,7 @@
 - **WS tunnel port**: 3002 (configurable via `WS_TUNNEL_PORT` env var). Needs nginx `/ws` → 3002 proxy with upgrade headers on the VPS.
 - **Plugin v0.3.3**: Includes tunnel client. Skips tunnel for localhost/LAN MC URLs automatically.
 - **MC plugin current version**: v0.3.3 (published to npm, CI auto-publishes on version bump).
-- **MC app version**: v0.5.29. Email system + approvals inner tabs + API improvements shipped 2026-03-22.
+- **MC app version**: v0.5.38. Model selector dropdown shipped 2026-03-22. Plugin v0.3.6.
 - **Image upload architecture**: uploads write to `data/uploads/chat/`, served via `/api/messages/files/{filename}`. Next.js rewrite maps legacy `/uploads/chat/*` URLs. Files API has fallback to `public/uploads/chat/` for pre-migration files. Nginx no longer has a static `/uploads/` block — Next.js handles it.
 - **Email system architecture** (v0.5.18–v0.5.20):
   - `src/lib/encryption.ts` — AES-256-GCM encrypt/decrypt using `MC_ENCRYPTION_KEY` env var

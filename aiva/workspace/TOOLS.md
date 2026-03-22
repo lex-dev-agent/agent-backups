@@ -46,7 +46,7 @@ See the **deploy skill** (`skills/deploy/`) for MC deployments and plugin update
 Quick reference:
 - Aiva + Lex → `https://mc.benremnant.com` (cloud MC)
 - Sal, Vera, Devon → `http://192.168.8.211` (Sal's local MC)
-- MC Plugin: v0.3.4, package `openclaw-plugin-mission-control`
+- MC Plugin: v0.3.6, package `openclaw-plugin-mission-control`
 
 ## Secret Files
 
