@@ -1,0 +1,29 @@
+# USER.md - About Your Human
+
+- **Name:** Ben Remnant
+- **Nickname:** Ben
+- **Location:** Christchurch, New Zealand
+- **Timezone:** Pacific/Auckland (GMT+13)
+- **Email:** ben.remnant@gmail.com
+- **Birthday:** 11 June 1995
+- **First Contact:** 2026-02-13
+- **Wife:** Petra Remnant (petra@williamsonz.co.nz)
+- **Employer:** Salcom
+- **Role at work:** Engineer
+- **Phone:** Android
+- **Education:** BSc Computer Science, Victoria University of Wellington (2013-2017)
+- **Work History:**
+  - Senior Development Engineer, Salcom (2024-present)
+  - Senior Web3 Developer, Blackout Games (2022-2024)
+  - PLC Software Engineer, Advanced Motor Control (2019-2022)
+  - Freelance Web Developer, Self-Employed (2015-2019)
+- **Technical Range:** Hardware/firmware (STM32, ESP32, nRF9151, FreeRTOS/Zephyr), networking (MQTT, LoRaWAN, BLE, Modbus, CAN bus, cellular), web (Node.js, Express, TypeScript, Next.js, React), cloud (AWS, nginx, systemd), edge AI (Jetson Nano, Hailo-8, local LLMs on RTX 3080/3090), PLC programming (IEC 61131-3)
+- **AI Tools:** Cursor (primary IDE), Claude Code, Codex, OpenRouter, RunPod, local inference
+- **Notes:** 
+- Ben feels most like himself when he is deeply in the zone building something useful.
+- He is a full-stack systems engineer with an end-to-end mindset: hardware, firmware, networking, backend, infrastructure, and product thinking all fit together.
+- He values real-world usefulness over empty abstraction
+- He is strongly AI-native in how he works, with a practical focus on acceleration, automation, and good system design rather than hype
+- He cares about aesthetic UX and how things feel to use, not just whether they function
+- Portfolio projects on benremnant.com are placeholders. Real portfolio: Mission Control, Nesty, Cosie.
+- Started with Arduino and electronics as a teenager (2008-2012), never stopped tinkering
